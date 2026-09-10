@@ -28,7 +28,6 @@ The webcam captures the user's hand, MediaPipe detects hand landmarks, and PyAut
 
 ## ⚙️ How It Works
 
-```text
 Webcam
    ↓
 OpenCV
@@ -91,3 +90,4 @@ virtual-mouse/
 Sagar B S
 
 ## GitHub: https://github.com/SAGAR-pan
+```text
