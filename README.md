@@ -71,23 +71,28 @@ pip install opencv-python mediapipe==0.10.21 pyautogui
 5. Run the project
 python virtual_mouse.py
 
+```
+
+
 ## 🎥 Usage
 Connect a working webcam.
 Run virtual_mouse.py.
 Place your hand in front of the webcam.
 Use the supported gestures to control the mouse.
 Press Q to exit.
+```
 
-## 📁 Project Structure
+ 📁 Project Structure
+
 virtual-mouse/
 │
 ├── virtual_mouse.py
 ├── .gitignore
 └── README.md
+```
 
 ## 👨‍💻 Author
-
 Sagar B S
 
 ## GitHub: https://github.com/SAGAR-pan
-```text
+```
