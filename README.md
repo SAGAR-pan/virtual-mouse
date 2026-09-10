@@ -43,7 +43,7 @@ PyAutoGUI
    ↓
 Mouse Actions
 
-🖐️ Gesture Controls
+##🖐️ Gesture Controls
 
 | Gesture | Action |
 |---|---|
@@ -52,7 +52,7 @@ Mouse Actions
 | Thumb + middle finger | Right click |
 | Index + middle finger | Scroll |
 
-🚀 Installation
+##🚀 Installation
  1. Clone the repository
 
 ```bash
@@ -71,22 +71,22 @@ pip install opencv-python mediapipe==0.10.21 pyautogui
 5. Run the project
 python virtual_mouse.py
 
-🎥 Usage
+##🎥 Usage
 Connect a working webcam.
 Run virtual_mouse.py.
 Place your hand in front of the webcam.
 Use the supported gestures to control the mouse.
 Press Q to exit.
 
-📁 Project Structure
+##📁 Project Structure
 virtual-mouse/
 │
 ├── virtual_mouse.py
 ├── .gitignore
 └── README.md
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Sagar B S
 
-GitHub: https://github.com/SAGAR-pan
+##GitHub: https://github.com/SAGAR-pan
